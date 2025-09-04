@@ -13,8 +13,3 @@ My research interests include
 I open some of my research works:  and 
 I am always happy :smile: to share my knowledge :blue_book: with others. Please visit the follows if you are
 interested.
-//* [Python Meets Mathematics](https://github.com/mint-lab/python_meets_math)
-//* [ML and DL Tutorial](https://github.com/mint-lab/dl_tutorial)
-//* [Computer Vision Tutorial](https://github.com/mint-lab/cv_tutorial)
-//* [An Intuitive Tutorial on Bayesian Filtering](https://github.com/mint-lab/filtering_tutorial)
-//* [An Invitation to 3D Vision: A Tutorial for Everyone](https://github.com/mint-lab/3dv_tutorial)
