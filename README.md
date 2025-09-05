@@ -1,6 +1,6 @@
 # 👨‍💻 Profile
 
-## I am Yoon, Seong Bin, Sophomore in the [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/)
+## I am Yoon, Seong Bin, Sophomore in [SeoulTech](https://seoultech.ac.kr) [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/)
 
 ## 🛠️ Languages & Tools
 
