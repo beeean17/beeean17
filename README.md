@@ -4,6 +4,5 @@
 
 ## 🛠️ Languages & Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beeean17&layout=compact&theme=vue-dark&hide_border=true)
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=beeean17)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes&layout=pie)
