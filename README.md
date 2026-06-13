@@ -2,14 +2,12 @@
 
 > Navigating the AI era, one build at a time.
 
-```bash
-$ whoami
-
-name: Yoon, Seong Bin / 윤성빈
-role: aspiring Finance Backend Developer
-status: exploring backend through real builds
-style: learning by building
-```
+| | |
+| --- | --- |
+| **Name** | Yoon, Seong Bin / 윤성빈 |
+| **Goal** | Finance Backend Developer |
+| **Now** | Exploring backend through real builds |
+| **Style** | Learning by building |
 
 ## About Me
 
